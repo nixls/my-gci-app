@@ -1,6 +1,8 @@
 {
   "name": "my-gci-app",
   "version": "0.1.0",
+  "description": "A simple webapp using React",
+  "repository": "https://github.com/nixls/my-gci-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
